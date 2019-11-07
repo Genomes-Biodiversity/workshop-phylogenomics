@@ -1,3 +1,7 @@
 # Workshop: Phylogenomics
 
-This is a workshop exercise on phylogenomics, run by David Duchêne (Australian National University) and Simon Ho (University of Sydney) as part of the "Genomes and Biodiversity" Research and Career Development Workshop. The workshop is a Theo Murphy Initiative event of the Australian Academy of Science.
+- David Duchêne (Australian National University)
+- Simon Ho (University of Sydney)
+
+
+This workshop will present an introduction to the challenges associated with phylogenetic analyses of genome-scale data. Participants will learn about data filtering, gene-tree incongruence, and inferring species trees. A hands-on session will involve the analysis of a multigene data set to resolve the phylogenetic relationships among marsupial families. The software required for this workshop are MEGA and ASTRAL. Participants are assumed to be familiar with interpreting phylogenetic trees and with some of the basic principles of molecular evolution. 
